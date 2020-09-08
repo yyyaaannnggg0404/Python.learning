@@ -1,2 +1,2 @@
 # Python.learning
- Go from entry to running. #Make small but daily progress#
+ Python from entry to running. #Make small but daily progress#
